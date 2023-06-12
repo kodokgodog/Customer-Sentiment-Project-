@@ -1,0 +1,12 @@
+streamlit
+pandas
+seaborn
+matplotlib
+tensorflow==2.12.0
+scikit-learn==1.2.1
+numpy
+altair
+plotly
+nltk == 3.7
+Pillow
+wordcloud
