@@ -1,7 +1,7 @@
 
 # Reservation Cancelation Prediction
 
-Project ini merupakan project mandiri. Project ini memiliki tujuan untuk memanfaatkan Machine Learning guna memprediksi klasisifikasi dari tamu hotel yang mereservasi kamar apakah ia akan mencancel reservasinya atau tidak. Sehingga dapat meminimalisir pengaruh dari adanya cancelation tersebut.
+Project ini merupakan project mandiri. Project ini memiliki tujuan untuk memanfaatkan Natural Language Processing (NLP) guna memprediksi klasisifikasi dari tamu hotel yang mereservasi kamar apakah ia akan mencancel reservasinya atau tidak. Sehingga dapat meminimalisir pengaruh dari adanya cancelation tersebut.
 
 ## Deployment Link
 Deployment : (https://huggingface.co/spaces/kodokgodog/Sentiment_Prediction_of_Trip_Advisor_Hotel_Reviews)
